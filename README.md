@@ -96,9 +96,9 @@ Also everything is in one file because I was in "hack away" mode and didn't lear
 	[Iomrascalai](Rust)
 
 * "State of the art"
-	[Darkforest](https://github.com/facebookresearch/darkforestGo) from Facebook Research, using Torch DCNN (Lua and C)
-	[Pachi](https://github.com/pasky/pachi) long-time reference open-source engine before Facebook open-sourced theirs, with early Caffe DCNN support! (C)
-	[Fuego](https://sourceforge.net/projects/fuego/) slightly weaker than pachi but very strong engine as well (C++)
+	* [Darkforest](https://github.com/facebookresearch/darkforestGo) from Facebook Research, using Torch DCNN (Lua and C)
+	* [Pachi](https://github.com/pasky/pachi) long-time reference open-source engine before Facebook open-sourced theirs, with early Caffe DCNN support! (C)
+	* [Fuego](https://sourceforge.net/projects/fuego/) slightly weaker than pachi but very strong engine as well (C++)
 
 
 ## Future
