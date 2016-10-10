@@ -1,0 +1,10 @@
+[package]
+authors = ["Mamy Ratsimbazafy"]
+name = "rusty_go"
+version = "0.1.0"
+
+[dependencies]
+fnv = "*"
+itertools = "*"
+lazy_static = "0.2.1"
+rand = "*"
