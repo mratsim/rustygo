@@ -1,5 +1,12 @@
 # RustyGo, my untrusted bot player project
 
+## Development stopped
+
+While I love go and developping an efficient bot, this project also was a pretext to learn a new language, Rust. Unfortunately I spent an unordinate amount of time (3 months) to get anywhere as I was fighting the language more than reinforcement learning which is hard enough. Graphs are especially painful in Rust and Monte-Carlo Tree Search is based on graphs. Furthermore, deep learning based reinforcement learning would be impossible in Rust currently.
+
+I have rebooted a go bot project, [Golem Prime](https://github.com/mratsim/golem-prime) in Nim, a young language I'm much more productive in. Nim has a syntax similar to Python, the speed of C and a focus on expressivity. In about 3 days, I made Golem Prime about 200x faster than RustyGo. I'm also writing my own deep learning library [Arraymancer](https://github.com/mratsim/Arraymancer) with OpenMP, OpenCL and Cuda backends with reinforcement learning as one of the future focus.
+
+## Table of Content
 <!-- TOC -->
 
 - [RustyGo, my untrusted bot player project](#rustygo-my-untrusted-bot-player-project)
